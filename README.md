@@ -1,6 +1,6 @@
 Hello
 Im Alireza Moradi
-This Application receives and stores automatically and manually news from two sources(ApiNews & NYTimesApi)
+This Application automatically and manually receives and stores news from two sources(ApiNews & NYTimesApi)
 This application provide for getching stored news and filtering it by source ,type and date
 This application provides simple laravel authentication with bootstrap
             
