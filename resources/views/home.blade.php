@@ -19,9 +19,9 @@
                     <br>
                     <br>
                     <br>
+                    @if ($user->id_admin)
                     <a href="{{route('dispatchSaveNews')}}" class="btn btn-xs btn-info pull-right">Save some NEWS</a>
                     {{cache('save_news')}}
-                    @if ($user->id_admin)
                     @endif
                 </div>
             </div>
